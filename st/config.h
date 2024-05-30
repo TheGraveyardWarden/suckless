@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=16";
+static char *font = "monospace:pixelsize=15";
 static int borderpx = 2;
 
 /*
@@ -150,8 +150,8 @@ static unsigned int cursorshape = 2;
  * Default columns and rows numbers
  */
 
-static unsigned int cols = 80;
-static unsigned int rows = 24;
+static unsigned int cols = 90;
+static unsigned int rows = 20;
 
 /*
  * Default colour and shape of the mouse cursor
